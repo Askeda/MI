@@ -1,0 +1,20 @@
+	body{padding:0px;margin:0px;}
+	li{list-style: none;}
+	.border{width: 100%;position: absolute;	}
+	.border_header{width: 100%;height: 60px;}
+	.border_text{width: 100%;height: 50px;background-color: black;position: absolute;margin-top: -10px;}
+	.border_text_span1{	font-size: 13px;color: gray;line-height: 40px;}
+	.border_text_span2{font-size: 12px;color: gray;line-height: 40px;margin-left: 800px;}
+	.border_text_img{line-height: 40px;margin-top: 5px;}
+	.border_img{width: 1536px;height: 55px;}
+	.border_center_img{margin-left: 52px;height: 55px; margin-top: 30px;}
+	.border_center_img2{height: 50px; margin-top: 20px;}
+	.border_img_text{margin-left: 100px;line-height: 20px;}
+	.border_center{width: 200px;height: 57px;margin-left: 778px;margin-top: -37px;}
+	.border_center_input{height: 42px;width: 200px;margin-left: 200px;margin-top: 22px;}
+	.border_center_span{width: 52px;height: 52px;margin-left: 1182px;margin-top: -59px;}
+	.border_z_size{width: 100%;height: 50px;background-color: gray;}
+	.border_z_text{width: 260px;height: 20px;margin-left: 1250px;margin-top: -47px;}
+	.border_j_imgall{width: 1000px;margin-left: 200px;}
+	.border_j_img{width: 1000px;}
+	.border_buttom_size{width: 1200px;height: 200px;background-color: gray;margin-top: 20px;margin-left: 200px;}
